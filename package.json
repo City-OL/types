@@ -1,0 +1,27 @@
+{
+  "name": "@city-ol/types",
+  "version": "1.0.0",
+  "description": "Types used in City-OL applications.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/City-OL/types.git"
+  },
+  "keywords": [
+    "orienteering"
+  ],
+  "author": "Tim Mutkala <contact@tim-media.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/City-OL/types/issues"
+  },
+  "homepage": "https://github.com/City-OL/types#readme",
+  "devDependencies": {
+    "@types/geojson": "^7946.0.11",
+    "typescript": "^5.2.2"
+  }
+}
